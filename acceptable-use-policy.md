@@ -2,7 +2,7 @@
 
 Capitalized terms used but not defined in this Acceptable Use Policy have the meanings assigned to them in our **Terms of Service** and **Privacy Policy**. 
 
-In this Acceptable Use Policy, "you" and "your" refer to you the customer, and "ECAD Labs", "we", "us", and "our" refer to ECAD Labs Inc.
+In this Acceptable Use Policy, "you" and "your" refer to you the customer, and "Pinnacle Labs", "we", "us", and "our" refer to Pinnacle Labs Limited.
 
 ### 1. Compliance with Laws and Regulations
 You are responsible for using the Service in compliance with all applicable laws, regulations, and our Acceptable Use Policy, made up of the policies provided below. These policies may be amended from time to time.
@@ -32,7 +32,7 @@ You will not reproduce, duplicate, copy, sell, resell or exploit any portion of 
 ### 5. Privacy
 Misuse of any Personal Information or Personally Identifiable Information is prohibited.
 
-Any person, entity, or service collecting Personal Information or Personally Identifiable Information from the Service must comply with the ECAD Labs [Privacy Policy](https://www.ecadlabs.com/privacy). 
+Any person, entity, or service collecting Personal Information or Personally Identifiable Information from the Service must comply with the Pinnacle Labs [Privacy Policy](https://pinnaclelabs.limited/privacy). 
 
 You may only collect and process Personal Information and Personally Identifiable Information that you have a lawful basis for collecting and processing.
 
@@ -55,4 +55,6 @@ Automated excessive bulk activity and coordinated inauthentic activity, such as 
 
 
 ### 8. Service Provider Protection
-You must not engage in activity that significantly harms, or may reasonably be expected to harm, ECAD Labs, its contractors, agents, affiliates, customers or the community at large.
+You must not engage in activity that significantly harms, or may reasonably be expected to harm, Pinnacle Labs, its contractors, agents, affiliates, customers or the community at large.
+
+_Last modified: June 15, 2023_

@@ -1,8 +1,8 @@
 # Privacy Policy
 
-This Privacy Policy apply to all Users of Services subject to the ECAD Labs Inc. Terms of Service (the "**Terms**").
+This Privacy Policy apply to all Users of Services subject to the Pinnacle Labs Limited Terms of Service (the "**Terms**").
 
-References to "you" and "your" mean you, the individual User. References to "we", "us", and "our" mean ECAD Labs Inc. Capitalized terms used but not defined in this Privacy Policy have the meanings defined in our **Terms of Service**.
+References to "you" and "your" mean you, the individual User. References to "we", "us", and "our" mean Pinnacle Labs Limited Capitalized terms used but not defined in this Privacy Policy have the meanings defined in our **Terms of Service**.
 
 ### Section 1. Information Collected based on Contract
 **Short version:** *We may collect, process and publish personal and personally identifiable information on public Blockchains to provide the Service described in our Terms of Service.*
@@ -38,6 +38,6 @@ Notwithstanding our limited collection, processing and disclosure of personal an
 Third parties may use personal or personally identifiable personal information obtained from the Blockchain without a lawful basis. You must pursue any legal or regulatory remedies related to this use directly with these parties.
 
 ### Section 6. Contact
-If you believe that we possess your personal or personally identifiable information and wish to exercise your rights concerning that information, please contact: **legal@ecadlabs.com**
+If you believe that we possess your personal or personally identifiable information and wish to exercise your rights concerning that information, please contact: **legalmattersdept@pinnaclelabs.limited**
 
-_Last modified: January 24, 2022_
+_Last modified: June 15, 2023_
